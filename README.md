@@ -1,5 +1,5 @@
 ## Hey, I'm Danny. 
-I live in New York City. I like music, going outside, good food, and coding. 2009-FSA.
+I live in New York City. I like music, good food, going outside, and coding. 2009-FSA.
 
 ### Get In Touch
 <a href="mailto:danberadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/danielberger18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.reddit.com/user/danberadi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
