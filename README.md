@@ -7,4 +7,4 @@
   * [Email](mailto:danberadi@gmail.com)
   * Portfolio - coming soon
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=radical)
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kungojung&show_icons=true&theme=dark)
