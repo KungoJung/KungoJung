@@ -11,7 +11,7 @@ I live in New York City. I like music, good food, going outside, and coding. 200
 ### I'm Currently Learning...
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
 
-### My Coolest Project Repos
+### My Favorite Project Repos
 * <a href="https://github.com/2009-fsa-cs-ashes-archers/JobMapApp">JavaScript Jobs USA</a> - Mapbox Job Search Tool
 * <a href="https://github.com/FSA-2009-Revenge-of-the-Shoppers/Grace-Shopper">YoDaddy</a> - E-Commerce with tons of Baby Yoda
 * <a href="https://github.com/KungoJung/expense-tracker-electron">These Expenses</a> - Desktop Expense Tracker
