@@ -1,5 +1,5 @@
 ## Hey, I'm Danny. 
-I live in New York City. I like music, good food, being outside, and coding. Cohort 2009-FSA. Developer @ FGH.
+I live in New York City. I like music, good food, being outside, and coding. 2009-FSA. Developer @ FGS Global.
 
 ### Get In Touch
 <a href="mailto:danberadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/danielberger18/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCMGSgppCK-hp4zmeqhp7CIw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.danny-berger.dev"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
